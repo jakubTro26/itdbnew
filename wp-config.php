@@ -79,7 +79,7 @@ define( 'LOGGED_IN_SALT',   'v76Y,tmTg%SH$A}6ECUs]|&%!!wx>j|fx]K@!YLCti]C,Xf040L
 define( 'NONCE_SALT',       '7Fke<t+oY[P3)(pe?3G|H4u7*hhzlq .R-Fep@0F#jwG_+wV%q,-PmR?]G}:O]PQ' );
 define('WP_HOME','https://itdb.biz');
 define('WP_SITEURL','https://itdb.biz');
-
+define( 'REDIRECTION_DISABLE', true );
 
 /**#@-*/
 
