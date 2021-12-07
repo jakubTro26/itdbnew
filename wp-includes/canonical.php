@@ -786,26 +786,7 @@ function redirect_canonical( $requested_url = null, $do_redirect = true ) {
 	 * @param string $redirect_url  The redirect URL.
 	 * @param string $requested_url The requested URL.
 	 */
-	$redirect_url = apply_filters( 'redirect_canonical', $redirect_url, $requested_url );
 
-	// Yes, again -- in case the filter aborted the request.
-	if ( ! $redirect_url || strip_fragment_from_url( $redirect_url ) === strip_fragment_from_url( $requested_url ) ) {
-		return;
-	}
-
-	if ( $do_redirect ) {
-		// Protect against chained redirects.
-		if ( ! redirect_canonical( $redirect_url, false ) ) {
-			wp_redirect( $redirect_url, 301 );
-			exit;
-		} else {
-			// Debug.
-			// die("1: $redirect_url<br />2: " . redirect_canonical( $redirect_url, false ) );
-			return;
-		}
-	} else {
-		return $redirect_url;
-	}
 }
 
 /**
