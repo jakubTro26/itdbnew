@@ -75,7 +75,8 @@ define( 'AUTH_SALT',        ')gQOf4*SaT=#}WU<+;;>r-1 tm84Wpwg1=N%{t{-5PpUUf7!^Tz
 define( 'SECURE_AUTH_SALT', '5ofuliT*(_dsi2cGD>I3~`yk+MuI!*<PF1B$|p}6^{qZ9Y1F1Q=#3#C1gRci9E]+' );
 define( 'LOGGED_IN_SALT',   'v76Y,tmTg%SH$A}6ECUs]|&%!!wx>j|fx]K@!YLCti]C,Xf040L~bV&|,gf(Jp|G' );
 define( 'NONCE_SALT',       '7Fke<t+oY[P3)(pe?3G|H4u7*hhzlq .R-Fep@0F#jwG_+wV%q,-PmR?]G}:O]PQ' );
-
+define('WP_HOME','http://itdb.biz');
+define('WP_SITEURL','http://itdb.biz');
 /**#@-*/
 
 /**
