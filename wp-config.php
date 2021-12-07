@@ -17,7 +17,9 @@ if ((isset($_ENV["HTTPS"]) && ("on" == $_ENV["HTTPS"]))
 $_SERVER["HTTPS"] = "on";
 }
 //END Really Simple SSL
-
+$_SERVER['HTTP_HOST'] = $_SERVER['HTTP_X_FORWARDED_HOST'];
+$_SERVER['REQUEST_URI'] = str_replace("wordpress", "home",
+$_SERVER['REQUEST_URI']);
 /**
  * The base configuration for WordPress
  *
@@ -77,6 +79,8 @@ define( 'LOGGED_IN_SALT',   'v76Y,tmTg%SH$A}6ECUs]|&%!!wx>j|fx]K@!YLCti]C,Xf040L
 define( 'NONCE_SALT',       '7Fke<t+oY[P3)(pe?3G|H4u7*hhzlq .R-Fep@0F#jwG_+wV%q,-PmR?]G}:O]PQ' );
 define('WP_HOME','http://itdb.biz');
 define('WP_SITEURL','http://itdb.biz');
+
+
 /**#@-*/
 
 /**
