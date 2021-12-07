@@ -1,0 +1,232 @@
+
+---Downloaded files---
+The import files for: Demo 1 (11 Variations) were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://consultix.radiantthemes.com/demo-one
+Data file = /home/consultix.radiantthemes.com/public_html/wp-content/themes/consultix/inc/import/one/content.xml
+Widget file = /home/consultix.radiantthemes.com/public_html/wp-content/themes/consultix/inc/import/one/widgets.wie
+Customizer file = /home/consultix.radiantthemes.com/public_html/wp-content/themes/consultix/inc/import/one/customizer.dat
+Redux files:
+consultix_theme_option -> /home/consultix.radiantthemes.com/public_html/wp-content/themes/consultix/inc/import/one/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Business-people-posing-smiling-in-meeting-room" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Businesswoman-with-question" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "Competitive-businesspeople-with-thumbs-up" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "License free" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Smiling-employee-with-tie-and-laptop" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "Students-making-thumbs-up-during-break" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-room-board-manager-line" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "vietnamese-strategy-presentation-teamwork-aged" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "favicon" (Media)
+
+
+---Importing widgets---
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Create &amp; Organize - Imported to Inactive
+Navigation Menu - Design &amp; Style - Imported to Inactive
+Navigation Menu - Showcase &amp; Promote - Imported to Inactive
+Text - Company Overview - Imported to Inactive
+Navigation Menu - Layout Options - Imported to Inactive
+Navigation Menu - Design &amp; Flexibility - Imported to Inactive
+Navigation Menu - Easy To Use - Imported to Inactive
+Text - Company Overview - Imported to Inactive
+
+Widgets in Menu : 
+
+Navigation Menu - Design &amp; Style - Imported
+Navigation Menu - Create &amp; Organize - Imported
+Navigation Menu - Showcase &amp; Promote - Imported
+
+Sidebar : 
+
+Search - Search - Imported
+Consultix Recent Posts With Thumbnail Widget - No Title - Imported
+Categories - CATEGORIES - Imported
+Archives - ARCHIVES - Imported
+Tag Cloud - TAGS - Imported
+
+Product | Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+
+Footer | #1 : 
+
+Image - No Title - Imported
+Consultix Contact Box - No Title - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer | #3 : 
+
+Recent Posts - Recent Post - Imported
+
+Footer | #4 : 
+
+Text - Newsletter - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: consultix_theme_option finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

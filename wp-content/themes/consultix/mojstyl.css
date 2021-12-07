@@ -1,0 +1,23 @@
+.pic img{
+
+    width:98% !important;
+}
+
+.rt-case-study-box.element-four .rt-case-study-box-item > .holder > .pic > .holder{
+
+
+    background-size: contain !important;
+<<<<<<< HEAD
+    transform: scale(0.9);
+}
+
+#tekst > p{
+    color:white;
+}
+
+.vc_custom_1608531760439{
+    background-image: none!;
+=======
+    
+>>>>>>> d48d0677229ea64f28ba6269e0341e0fca921334
+}

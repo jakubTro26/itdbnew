@@ -1,0 +1,22 @@
+2021-01-05T13:37:13+00:00 CRITICAL Uncaught Error: Class 'Radiantthemes_Style_Alert' not found in /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php:138
+Stack trace:
+#0 /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php(278): Radiantthemes_Addons->__construct()
+#1 /home/consultix.radiantthemes.com/public_html/wp-includes/class-wp-hook.php(287): radiantthemes_vc_bundle_init()
+#2 /home/consultix.radiantthemes.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /home/consultix.radiantthemes.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action()
+#4 /home/consultix.radiantthemes.com/public_html/wp-settings.php(557): do_action()
+#5 /home/consultix.radiantthemes.com/public_html/wp-config.php(87): require_once('/home/consultix...')
+#6 /home/consultix.radiantthemes.com/public_html/wp-load.php(37): require_once('/home/consultix...')
+#7 /home/consultix.radiantthemes.com/public_html/wp-c in /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php on line 138
+
+2021-01-05T13:37:13+00:00 CRITICAL Uncaught Error: Class 'Radiantthemes_Style_Alert' not found in /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php:138
+Stack trace:
+#0 /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php(278): Radiantthemes_Addons->__construct()
+#1 /home/consultix.radiantthemes.com/public_html/wp-includes/class-wp-hook.php(287): radiantthemes_vc_bundle_init()
+#2 /home/consultix.radiantthemes.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /home/consultix.radiantthemes.com/public_html/wp-includes/plugin.php(484): WP_Hook->do_action()
+#4 /home/consultix.radiantthemes.com/public_html/wp-settings.php(557): do_action()
+#5 /home/consultix.radiantthemes.com/public_html/wp-config.php(87): require_once('/home/consultix...')
+#6 /home/consultix.radiantthemes.com/public_html/wp-load.php(37): require_once('/home/consultix...')
+#7 /home/consultix.radiantthemes.com/public_html/wp-b in /home/consultix.radiantthemes.com/public_html/wp-content/plugins/radiantthemes-addons/class-radiantthemes-addons.php on line 138
+

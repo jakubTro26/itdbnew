@@ -1,0 +1,320 @@
+﻿/* testimonial element-fifteen */
+
+
+
+.testimonial.element-fifteen{
+
+	width:auto;
+
+	margin-left:-15px;
+
+	margin-right:-15px;
+
+}
+
+
+
+.testimonial.element-fifteen *{
+
+	margin:0 auto;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item{
+
+	padding:10px 15px 30px 15px;
+	    float: left;
+    
+}
+
+
+
+.testimonial.element-fifteen:not(.owl-carousel) .testimonial-item{
+
+	float:left;
+
+	margin-bottom:40px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder{
+
+	position:relative;
+
+	padding: 30px;
+    float: left;
+    box-shadow: 0 5px 10px rgb(0,0,0,0.1);
+    background: #fff;
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item.no-image > .holder{
+
+	padding-left:0;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic{
+
+	margin-top:0px;
+	text-align:center;
+	float: left;
+	width: 20%;
+
+}
+
+
+
+/*.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic{
+
+	display:none;
+
+}
+*/
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic{
+
+	display:inline-block;
+
+	vertical-align:top;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic img{
+
+	width:110px;
+	border-radius: 8px;
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic > .holder img{
+
+	border-radius:0;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .pic > .holder img{
+
+	border-radius:5px;
+
+}
+
+
+
+.testimonial.element-fifteen.image-circle .testimonial-item > .holder > .pic > .holder img{
+
+	border-radius:50%;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data{
+
+	position:relative;
+
+	margin:0px 0px 50px 0px;
+
+	padding:22px 25px 35px 85px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item.no-image > .holder > .data{
+
+	padding-left:25px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .holder{
+
+	margin-bottom:25px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder blockquote{
+width: 100%;
+float: left;
+padding-top: 0px;
+padding-bottom: 20px;
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .holder blockquote:before{
+
+	display:block;
+
+	margin-bottom:10px;
+
+	content:"\f10d";
+
+	font-family:'FontAwesome';
+
+	font-size:30px;
+
+	color:rgba(0,0,0,0.3);
+
+	line-hfifteen:30px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .holder blockquote > *:last-child{
+
+	margin-bottom:0 !important;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .holder blockquote p{
+
+	margin:0px 0px 20px 0px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .title{
+	float: right;
+	width: 80%;
+	padding-left: 30px;
+	position: relative;
+	padding-top: 10px;
+}
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .title:after{
+	position: absolute;
+	right: 0;
+	top: 14px;
+	width: 90px;
+	height: 67px;
+	content: "";
+	background: url(../images/quet.png) no-repeat right top;
+}
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .title ul li{
+	display: inline-block;
+}
+.testimonial.element-fifteen .testimonial-item > .holder > .holder > .title ul li i{
+color: #e79515;
+}
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .title h5{
+
+	margin:0px 0px 3px 0px;
+
+	text-transform:uppercase;
+
+	font-size:15px;
+
+	line-hfifteen:25px;
+
+}
+
+
+
+.testimonial.element-fifteen .testimonial-item > .holder > .data > .title p{
+
+	font-size:15px;
+
+	line-hfifteen:25px;
+
+}
+
+
+
+/* LARGE DESKTOP PART */
+
+@media screen and (min-width:1200px){
+
+}
+
+
+
+/* DESKTOP PART */
+
+@media screen and (min-width:992px) and (max-width:1199px){
+
+}
+
+
+
+/* TABLET LANDSCAPE PART */
+
+@media screen and (min-width:768px) and (max-width:991px){
+
+}
+
+
+
+/* TABLET PROTRAIT PART */
+
+@media screen and (min-width:480px) and (max-width:767px){
+
+
+
+	.testimonial.element-fifteen:not(.owl-carousel) .testimonial-item{
+
+		width:100% !important;
+
+	}
+
+
+
+}
+
+
+
+/* SMART PHONE LANDSCAPE PART */
+
+@media screen and (min-width:321px) and (max-width:479px){
+
+
+
+	.testimonial.element-fifteen:not(.owl-carousel) .testimonial-item{
+
+		width:100% !important;
+
+	}
+
+
+
+}
+
+
+
+/* SMART PHONE PROTRAIT PART */
+
+@media screen and (max-width:320px){
+
+
+
+	.testimonial.element-fifteen:not(.owl-carousel) .testimonial-item{
+
+		width:100% !important;
+
+	}
+
+
+
+}

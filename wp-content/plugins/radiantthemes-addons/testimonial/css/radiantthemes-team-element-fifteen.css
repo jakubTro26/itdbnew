@@ -1,0 +1,292 @@
+﻿/* team element-fifteen */
+
+
+
+.team.element-fifteen{
+
+	width:auto;
+
+	margin-left:-15px;
+
+	margin-right:-15px;
+
+}
+
+
+
+.team.element-fifteen .team-item{
+
+	padding:5px 15px 10px 15px;
+
+}
+
+
+
+.team.element-fifteen:not(.owl-carousel) .team-item{
+
+	float:left;
+
+	margin-bottom:40px;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder{
+
+	text-align:center;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic{
+
+	position:relative;
+
+	overflow:hidden;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > img{
+
+	width:100%;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .holder{
+
+	position:absolute;
+
+	top:0;
+
+	right:0;
+
+	bottom:0;
+
+	left:0;
+
+	z-index:1;
+
+	background:center top no-repeat;
+
+	background-size:cover;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data{
+
+	position:absolute;
+
+	/*top:0;*/
+
+	right:0;
+
+	bottom:0;
+
+	left:0;
+
+	z-index:2;
+
+	padding:20px 35px;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data > .table{
+
+	/*display:table;
+
+	table-layout:fixed;*/
+
+	width:100%;
+
+	height:100%;
+
+	margin:0;
+    height: 50%;
+    background: #fff;
+    transition:all 0.3s ease-in-out;
+
+	-webkit-transition:all 0.3s ease-in-out;
+
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data > .table > .table-cell{
+
+	/*display:table-cell;*/
+
+	width:100%;
+
+	height:100%;
+
+	vertical-align:bottom;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.team.element-fifteen .team-item > .holder > .pic:hover .data .table {
+    background: #e79515;
+}
+.team.element-fifteen .team-item > .holder > .pic:hover .data h5{
+	color: #fff;
+}
+.team.element-fifteen .team-item > .holder > .pic:hover .data p{
+	color: #fff;
+}
+.team.element-fifteen .team-item > .holder > .pic:hover .data ul.social li a i{
+color: #fff;
+}
+.team.element-fifteen .team-item > .holder > .pic > .data h5{
+
+	margin-bottom:5px;
+
+	font-weight:600;
+
+	font-size:20px;
+
+	color:#221543;
+
+	line-height:30px;
+
+	letter-spacing:1px;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data h5 a{
+
+	color:inherit;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data p{
+
+	/*margin-bottom:20px;*/
+
+	font-size:16px;
+
+	color:#e79515;
+
+	line-height:28px;
+
+	letter-spacing:0px;
+
+	
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data ul.social{
+
+	/*margin-bottom:-60px;*/
+
+	font-size:0;
+
+	transition:all 0.3s ease-in-out;
+
+	-webkit-transition:all 0.3s ease-in-out;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder:hover > .pic > .data ul.social{
+
+	margin-bottom:0;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data ul.social li{
+
+	display:inline-block;
+
+	vertical-align:top;
+
+	margin:0px 8px 7px 8px;
+
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data ul.social li a{
+
+	display:block;
+	background:none;
+}
+
+
+
+.team.element-fifteen .team-item > .holder > .pic > .data ul.social li a i{
+
+	font-size:13px;
+
+	color:#221543;
+
+	line-height:28px;
+
+}
+
+
+
+/* LARGE DESKTOP PART */
+
+@media screen and (min-width:1200px){
+
+}
+
+
+
+/* DESKTOP PART */
+
+@media screen and (min-width:992px) and (max-width:1199px){
+
+}
+
+
+
+/* TABLET LANDSCAPE PART */
+
+@media screen and (min-width:768px) and (max-width:991px){
+
+}
+
+
+
+/* TABLET PROTRAIT PART */
+
+@media screen and (min-width:480px) and (max-width:767px){
+
+}
+
+
+
+/* SMART PHONE LANDSCAPE PART */
+
+@media screen and (min-width:321px) and (max-width:479px){
+
+}
+
+
+
+/* SMART PHONE PROTRAIT PART */
+
+@media screen and (max-width:320px){
+
+}

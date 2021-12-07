@@ -1,0 +1,53 @@
+﻿.rt-accordion.element-six .radiantthemes-accordion-set {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	box-shadow: 0px 10px 70px -10px rgb(103 100 253/20%);
+	margin-top: 10px;
+	border: none;
+	border-radius: 0px
+}
+
+/* rt-accordion element-six */
+.rt-accordion.element-six .radiantthemes-accordion-set>a {
+	display: block;
+	padding: 12px 25px;
+	text-decoration: none;
+	color: #555;
+	font-weight: 600;
+	border: none;
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	transition: all .2s linear
+}
+
+.rt-accordion.element-six .radiantthemes-accordion-set>a i {
+	float: right;
+	margin-top: -24px
+}
+
+.rt-accordion.element-six .radiantthemes-accordion-set>a.rt-active {
+	background-color: #174def;
+	color: #fff;
+	border-radius: 4px
+}
+
+.rt-accordion.element-six .radiantthemes-accordion-content {
+	background-color: #fff;
+	display: none;
+	border-radius: 4px
+}
+
+.rt-accordion.element-six .radiantthemes-accordion-content p {
+	padding: 21px 25px;
+	margin: 0;
+	color: #47465e
+}
+.rt-accordion.element-six .radiantthemes-accordion-content h4{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 600;
+	color: #09276f;
+}
+/* rt-accordion element-six */
