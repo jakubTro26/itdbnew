@@ -7,8 +7,6 @@ RewriteRule ^.well-known/(.*)$ - [L]
 # Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteCond %{REQUEST_URI} ^/folder
-RewriteRule ^(.*)$ http://itdb.biz [P] 
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
